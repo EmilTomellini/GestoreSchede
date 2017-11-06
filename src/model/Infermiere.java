@@ -24,6 +24,4 @@ public class Infermiere extends User{
 		return this.fiscalCode;
 	}
 	
-	/////////
-	
 }
