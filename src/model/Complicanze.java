@@ -6,5 +6,3 @@ public enum Complicanze {
 	PNX,
 	Altro
 }
-
-/////// lore
