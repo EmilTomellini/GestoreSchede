@@ -5,5 +5,5 @@ public enum Complicanze {
 	PunturaArteria,
 	PNX,
 
-	//un cazzo di commento porcodio
+	//un cazzo di commento porcodio d sei gay
 }
