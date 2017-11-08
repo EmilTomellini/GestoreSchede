@@ -6,6 +6,6 @@ public enum Complicanze {
 	PNX,
 	Altro
 	
-	//commento
+	//commento bellissimo
 	
 }
