@@ -5,4 +5,5 @@ public enum Complicanze {
 	PunturaArteria,
 	PNX,
 
+	//un cazzo di commento
 }
