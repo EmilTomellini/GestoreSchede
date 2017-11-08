@@ -7,8 +7,7 @@ public class User {
 	private String fiscalCode;
 	
 	public User() {
-		//belo belo
-		System.out.println("dio gano");
+		//TO DO
 	}
 	
 	public User(String token) {
